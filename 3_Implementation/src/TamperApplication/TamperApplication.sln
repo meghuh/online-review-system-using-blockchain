@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamperApplication", "TamperApplication\TamperApplication.csproj", "{1E7642F2-F63B-4441-A041-B753678FBB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineReview", "..\OnlineReview\OnlineReview\OnlineReview.csproj", "{D9B366BB-1161-4028-9289-B91959FA7761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7642F2-F63B-4441-A041-B753678FBB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7642F2-F63B-4441-A041-B753678FBB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7642F2-F63B-4441-A041-B753678FBB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7642F2-F63B-4441-A041-B753678FBB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B366BB-1161-4028-9289-B91959FA7761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B366BB-1161-4028-9289-B91959FA7761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B366BB-1161-4028-9289-B91959FA7761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B366BB-1161-4028-9289-B91959FA7761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

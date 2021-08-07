@@ -1,0 +1,6 @@
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\OnlineReview.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\OnlineReview.pdb
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\MySql.Data.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\Sha2.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\obj\Release\OnlineReview.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\obj\Release\OnlineReview.pdb

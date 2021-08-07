@@ -1,0 +1,209 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Customer.master.cs" Inherits="OnlineReview.Customer" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Online Review</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="Edulearn Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"
+	/>
+	<script>
+	    addEventListener("load", function () {
+	        setTimeout(hideURLbar, 0);
+	    }, false);
+
+	    function hideURLbar() {
+	        window.scrollTo(0, 1);
+	    }
+	</script>
+    <script type="text/javascript" language="javascript">
+
+        window.onload = window.history.forward(0);  
+</script>
+	<!--// Meta tag Keywords -->
+
+	<!-- Custom-Files -->
+	<!-- Bootstrap-Core-Css -->
+	<link rel="stylesheet" href="css/bootstrap_css.css">
+	<!-- Testimonials-Css -->
+	<link href="css/mislider.css" rel="stylesheet" type="text/css" />
+	<link href="css/mislider-custom.css" rel="stylesheet" type="text/css" />
+	<!-- Style-Css -->
+	<link rel="stylesheet" href="css/css_style_css.css" type="text/css" media="all" />
+	<!-- Font-Awesome-Icons-Css -->
+	<link rel="stylesheet" href="css/fontawesome-all.css">
+	<!-- //Custom-Files -->
+
+	<!-- Web-Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+	 rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+	<!-- //Web-Fonts -->
+
+</head>
+
+<body>
+	<!-- header -->
+	<header>
+		<!-- top header -->
+		
+		<!-- //top header -->
+		<!-- middle header -->
+		<div class="middle-w3ls-nav py-2">
+			<div class="container">
+				<div class="row">
+                
+					
+                   
+				</div>
+			</div>
+		</div>
+		<!-- //middle header -->
+	</header>
+	<!-- //header -->
+
+	<!-- banner -->
+	<div class="banner-agile-2">
+		<!-- navigation -->
+		<div class="navigation-w3ls">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-nav">
+				<button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+				 aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+					<ul class="navbar-nav justify-content-center">
+						<li class="nav-item">
+							<a class="nav-link text-white" href="CustomerHome.aspx">Home
+								<span class="sr-only">(current)</span>
+							</a>
+						</li>
+                        <li class="nav-item dropdown">
+							<a class="nav-link text-white" href="AddCustomerWallet.aspx" >
+								Add Wallet
+							</a>
+							
+						</li>
+                        <li class="nav-item dropdown">
+							<a class="nav-link text-white" href="CustomerViewWallet.aspx" >
+								View Wallet
+							</a>
+							
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link text-white" href="CustomerProductPurchase.aspx" >
+								Purchase Product
+							</a>
+							
+						</li>
+						
+                        <li class="nav-item dropdown">
+							<a class="nav-link text-white" href="CustomerPostReview.aspx" >
+								Post Review
+							</a>
+							
+						</li>
+						
+						
+						<li class="nav-item">
+							<a class="nav-link text-white" href="index.aspx">Logout</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+		<!-- //navigation -->
+	</div>
+	<!-- breadcrumb -->
+	
+
+	<!-- contact -->
+	<div class="contact py-5">
+		<div class="container py-xl-5 py-lg-3">
+			
+			
+			<!-- form -->
+			<form id="form1" runat="server">
+				 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+			</form>
+			<!-- //form -->
+		</div>
+	</div>
+	<!-- //contact -->
+
+	<!-- brands -->
+	
+
+	<!-- footer -->
+	<footer>
+		
+		<div class="copyright-agiles py-3">
+			<div class="container">
+				<div class="row">
+					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2021 Online Review. All Rights Reserved | Design by Online Review
+						<%--<a href="https://w3layouts.com/" target="_blank">W3layouts</a>--%>
+					</p>
+					<!-- social icons -->
+					
+					<!-- //social icons -->
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- //footer -->
+
+
+	<!-- Js files -->
+	<!-- JavaScript -->
+	<script src="js/jquery-2.2.3.min.js"></script>
+	<!-- Default-JavaScript-File -->
+	<script src="js/bootstrap.js"></script>
+	<!-- Necessary-JavaScript-File-For-Bootstrap -->
+
+	<!-- testimonial-plugin -->
+	<script src="js/mislider.js"></script>
+	<script>
+		jQuery(function ($) {
+			var slider = $('.mis-stage').miSlider({
+				//  The height of the stage in px. Options: false or positive integer. false = height is calculated using maximum slide heights. Default: false
+				stageHeight: 320,
+				//  Number of slides visible at one time. Options: false or positive integer. false = Fit as many as possible.  Default: 1
+				slidesOnStage: false,
+				//  The location of the current slide on the stage. Options: 'left', 'right', 'center'. Defualt: 'left'
+				slidePosition: 'center',
+				//  The slide to start on. Options: 'beg', 'mid', 'end' or slide number starting at 1 - '1','2','3', etc. Defualt: 'beg'
+				slideStart: 'mid',
+				//  The relative percentage scaling factor of the current slide - other slides are scaled down. Options: positive number 100 or higher. 100 = No scaling. Defualt: 100
+				slideScaling: 150,
+				//  The vertical offset of the slide center as a percentage of slide height. Options:  positive or negative number. Neg value = up. Pos value = down. 0 = No offset. Default: 0
+				offsetV: -5,
+				//  Center slide contents vertically - Boolean. Default: false
+				centerV: true,
+				//  Opacity of the prev and next button navigation when not transitioning. Options: Number between 0 and 1. 0 (transparent) - 1 (opaque). Default: .5
+				navButtonsOpacity: 1,
+			});
+		});
+	</script>
+	<!-- //testimonial-plugin -->
+
+	<!-- smooth scrolling -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<!-- //smooth scrolling -->
+
+	<!-- move-top -->
+	<script src="js/move-top.js"></script>
+	<!-- easing -->
+	<script src="js/easing.js"></script>
+	<!--  necessary snippets for few javascript files -->
+	<script src="js/edulearn.js"></script>
+
+	<!-- //Js files -->
+
+</body>
+
+</html>

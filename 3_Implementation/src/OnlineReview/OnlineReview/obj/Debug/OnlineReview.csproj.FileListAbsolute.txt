@@ -1,0 +1,14 @@
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\bin\OnlineReview.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\bin\OnlineReview.pdb
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\obj\Debug\OnlineReview.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\obj\Debug\OnlineReview.pdb
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\bin\MySql.Data.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\obj\Debug\OnlineReview.csprojResolveAssemblyReference.cache
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\OnlineReview\OnlineReview\bin\Sha2.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\OnlineReview.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\OnlineReview.pdb
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\MySql.Data.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\bin\Sha2.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\obj\Debug\OnlineReview.csprojResolveAssemblyReference.cache
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\obj\Debug\OnlineReview.dll
+D:\final year project\FinalProject_OnlineReview_SJCE\FinalProject_OnlineReview_SJCE\OnlineReview\OnlineReview\obj\Debug\OnlineReview.pdb
