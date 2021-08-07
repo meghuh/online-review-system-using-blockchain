@@ -39,12 +39,11 @@ The
 # 4W&#39;s and 1&#39;H
 
 ## Who
-
-To any high level secuirty purposes that requires confidnetiality Eg: businessmen, Government policies or documents, medical reports etc
+Online Business that prefers to receive feedback from the consumers/customers for their marketing. The review would help them to improvise their business and grow.Eg: businessmen, medical assistance, trip advisors etc
 
 ## What
 
-To provide the secured online review system using blockchain technology. 
+To provide the secured online review system using blockchain technology. As the blockchain technology consists of crypto algorithms like the AES Rijndael algorithm and SHA-256 that would immediately encrypt the plain text and provides hash codes. Doing so,  the situation will not be favorable to the third party modifier and helps to maintain the security of the customer review safe. 
 
 ## When
 
