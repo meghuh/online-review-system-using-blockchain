@@ -11,3 +11,6 @@
 ## Low Level Design ![BCD](https://user-images.githubusercontent.com/88431312/128477083-10a8e37c-23a4-4dba-ac0f-96efe51a3041.JPG)
 
 
+## USER DIAGRAM
+
+![user_diagram](https://github.com/meghuh/online-review-system-using-blockchain/blob/main/images/user_diagram.JPG)
