@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/91806c93d77144f7848ec8456e5e3d28)](https://www.codacy.com/gh/meghuh/online-review-system-using-blockchain/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=meghuh/online-review-system-using-blockchain&amp;utm_campaign=Badge_Grade)
+
 # Requirements
 
 ## Introduction
