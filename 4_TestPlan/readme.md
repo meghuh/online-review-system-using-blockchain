@@ -10,7 +10,7 @@
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Status**  |
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Test Type**  |
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |   1     |Secured Online review system requires the necessity for the encryptioin algorithms to protect the feedbacks from customers from tampering |  Having the original review unaltered  | the original reviews can be gained back from the database |the actual reviews are present and retrieved from the database where all the reviews are stored |Requirement based |
 |    2       |Online marketing business using the secured review system to improve their business |  to obtain reviews without any falsification| original reviews obtained inspite of modification by the third party using blockchain | Reviews are obtained|Scenario based    |
