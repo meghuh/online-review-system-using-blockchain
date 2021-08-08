@@ -1,16 +1,16 @@
-# TEST PLAN:
+# TEST PLAN
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Status**  |
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
+|  1       | Click on Shop Registration |  Input Required Details | Based on Input Details Should successfully Register to Application|Shop Successfully register to application with details |Pass |
 |  H_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
 |  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Status**  |
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
 |  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
