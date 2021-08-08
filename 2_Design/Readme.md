@@ -3,7 +3,7 @@
 ## High Level Design 
 
 --- **The Structural Diagram of the Blockchain technology is as below**
-![HighLevelStructuralDiagram](https://github.com/meghuh/online-review-system-using-blockchain/blob/main/images/squence_diagram.JPG)
+![HighLevelStructuralDiagram](https://github.com/meghuh/online-review-system-using-blockchain/blob/main/images/squence_diagram.png)
 
 **The Behavioural Diagram of the Blockchain technology is as below**
 
