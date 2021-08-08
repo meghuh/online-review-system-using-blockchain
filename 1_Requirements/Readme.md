@@ -6,7 +6,7 @@
 
 ## Research
 
-![BLOCKCHAIN TECHNOLOGY](https://cdn-clfjn.nitrocdn.com/BOVKMJlXuKUTaPhGtzOSLaYACqQnOxuY/assets/static/optimized/rev-882bc92/wp-content/uploads/elementor/thumbs/Blockchain-pa1pm9yg5hz54nzla8l7wf3ijibmvv7432hgbn9z7s.jpg)
+![BLOCKCHAIN TECHNOLOGY](https://github.com/meghuh/online-review-system-using-blockchain/blob/main/images/BCD.JPG)
 
 |**EXISTING SYSTEM** | **BLOCKCHAIN** |
 | --- | --- |
@@ -46,12 +46,12 @@ Online Business that prefers to receive feedback from the consumers/customers fo
 To provide the secured online review system using blockchain technology. As the blockchain technology consists of crypto algorithms like the AES Rijndael algorithm and SHA-256 that would immediately encrypt the plain text and provides hash codes. Doing so,  the situation will not be favorable to the third party modifier and helps to maintain the security of the customer review safe. 
 
 ## When
-
-As the techology emerges , online business also increasing interms of shopping and delivery.
+ To maintain transparency between the business and the customers, online review system will be used. Inculcating this technology would support the business to a larger extent as genuine feedbacks are supported. 
 
 ## Where
 
-the review system 
+
+As the technology emerges , online business is also increasing interms of shopping and delivery. There is also a wide chance of expanding the online business depending on the product sales which inturn depends on the reviews given by the cunsumers. 
 
 ## How
 
